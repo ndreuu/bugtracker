@@ -19,4 +19,5 @@
 * Pop up for errors:
   * existing login in registration
   * absence of coment after changing of bug report
+* Pretty UI 
   
