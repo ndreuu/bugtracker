@@ -1,7 +1,7 @@
 # Bugtracker
 
 ### Hot to run
-1. set up mssql in coldfusion   
+1. set up mssql in coldfusion with name `bugtracker`   
 2. run `db.sql` locally 
 3. open localhost:your_port/src 
 
