@@ -3,7 +3,7 @@
 ### Hot to run
 1. set up mssql in coldfusion   
 2. run `db.sql` locally 
-3. open localhost:<port>/src 
+3. open localhost:your_port/src 
 
 ### Features
 * Log in/Log out
